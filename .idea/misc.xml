@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/drawable/ic_grid_layout.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/drawable/ic_linear_layout.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/layout/activity_detail.xml" value="0.2719546742209632" />
+        <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/layout/activity_main.xml" value="0.2719546742209632" />
+        <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/layout/fragment_letter_list.xml" value="0.2719546742209632" />
+        <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/layout/fragment_word_list.xml" value="0.2719546742209632" />
         <entry key="..\:/Users/Martin/AndroidStudioProjects/android-basics-kotlin-words-app/app/src/main/res/menu/layout_menu.xml" value="0.25" />
       </map>
     </option>
